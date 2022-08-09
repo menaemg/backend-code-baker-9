@@ -3,6 +3,7 @@
 
 ## Session 1:
 
-  - [Slides](#link)
-  - [Code](#link)
-  - [Task](#link)
+  - [Slides](Slides/Session%201/)
+  - [Code](Code/Session%201/)
+  - [Task](Tasks/Task1.md)
+  - [Session Record](https://vimeo.com/737631928)
