@@ -14,3 +14,11 @@
   - [Code](Code/Session%202/index.php)
   - [Task](Tasks/Task2.md)
   - [Session Record](https://vimeo.com/739290701)
+
+
+## Session 3:
+
+  - [Slides](Slides/Session%203/)
+  - [Code](Code/Session%203/)
+  - [Task](Tasks/Task3.md)
+  - [Session Record](https://youtu.be/FMh7FQh3Qs0)
