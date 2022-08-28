@@ -22,3 +22,10 @@
   - [Code](Code/Session%203/)
   - [Task](Tasks/Task3.md)
   - [Session Record](https://youtu.be/FMh7FQh3Qs0)
+
+## Session 4:
+
+  - [Slides](Slides/Session%204/)
+  - [Code](Code/Session%204/)
+  - [Task](Tasks/Task4.md)
+  - [Session Record](https://youtu.be/TNY-LiRi_hs)

@@ -1,4 +1,4 @@
-## Task 2
+## Task 3
 ### 1-Write a program to loop through an associative array using foreach() 
 #### Input example:
 
