@@ -29,3 +29,10 @@
   - [Code](Code/Session%204/)
   - [Task](Tasks/Task4.md)
   - [Session Record](https://youtu.be/TNY-LiRi_hs)
+
+  ## Session 5:
+
+  - [Slides](Slides/Session%205/)
+  - [Code](Code/Session%205/)
+  - [Task](Tasks/Task5.md)
+  - [Session Record](https://youtu.be/11qSJ8C0n1g)
