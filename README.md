@@ -36,3 +36,10 @@
   - [Code](Code/Session%205/)
   - [Task](Tasks/Task5.md)
   - [Session Record](https://youtu.be/11qSJ8C0n1g)
+
+    ## Session 6:
+
+  - [Slides](Slides/Session%206/)
+  - [Code](Code/Session%206/)
+  - [Task](Tasks/Task6.md)
+  - [Session Record](https://youtu.be/3AxuvBOtkHA)
