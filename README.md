@@ -43,3 +43,9 @@
   - [Code](Code/Session%206/)
   - [Task](Tasks/Task6.md)
   - [Session Record](https://youtu.be/3AxuvBOtkHA)
+
+      ## Session 7:
+
+  - [Slides](Slides/Session%207/)
+  - [Code](Code/Session%207/)
+  - [Session Record](https://youtu.be/sbVxWc3wZgM)
